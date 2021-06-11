@@ -1,0 +1,19 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container {
+    text-align: center;
+}
+
+/*Start your code from here */
+#slide {
+    background-color: aqua
+}
+
+#slide img {
+    height: 300px;
+    margin-top: 40px
+}
